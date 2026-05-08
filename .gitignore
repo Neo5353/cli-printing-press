@@ -12,3 +12,5 @@ library/
 dist/
 claude-upgrade-progress.json
 rust-port/target/
+rust-port-out/
+rust-port-library/
